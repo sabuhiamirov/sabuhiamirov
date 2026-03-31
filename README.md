@@ -5,7 +5,6 @@
 <h2 align="left">About me</h2>
 
 <div>
-  <img align="right" height="102" src="https://www.linkedin.com/pulse/mastering-learning-linkedin-strategies-software-boulouma-swe--oeuwf" />
   <h4 align="left">✨ Creating mobile applications since 2023<br>📚 I'm currently learning Kotlin Multiplatform in depth<br>🎯 Goal: Build a $500K+ valuable app</h4>
 </div>
 
