@@ -5,8 +5,8 @@
 <img align="right" height="160" hspace="40" src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
 
 <br>
-<p>✨ Creating mobile apps since 2023</p>
-<p>📚 Learning Kotlin Multiplatform</p>
+<p>✨ Creating mobile applications since 2023</p>
+<p>📚 I'm currently learning Kotlin Multiplatform in depth</p>
 <p>🎯 Goal: Build a $500K+ valuable app</p>
 <br clear="right"/>
 
